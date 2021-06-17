@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">App Usuarios</string>
+    <string name="action_menu_user">Opciones</string>
+    <string name="action_menu_alum">OpcioneS</string>
+    <string name="title_activity_login">Autentificación</string>
+    <string name="guardar">Guardar</string>
+    <string name="excluir">Excluir</string>
+    <string name="salir">Salir</string>
+    <string name="login">Login</string>
+    <string name="usuarios">Usuarios</string>
+    <string name="alumnos">Alumnos</string>
+    <string name="nuevo_user">New User</string>
+    <string name="nuevo_alu">Nuevo Alumno</string>
+
+
+    <!-- login -->
+    <string name="Login_txtUsuario">Usuario:</string>
+    <string name="Login_txtClave">Clave:</string>
+    <string name="Login_btnEntrar">Ingresar</string>
+
+    <!-- validacion -->
+    <string name="Login_validaUsuario">Usuario Obligatorio</string>
+    <string name="Login_validaClave">Clave Obligatorio</string>
+    <string name="Login_validaNombre">Nombre Obligatorio</string>
+
+    <!-- validacion ALUMNO-->
+    <string name="validaAlumno">Alumno Obligatorio</string>
+    <string name="validaTelefono">Telefono Obligatorio</string>
+    <string name="validaDni">DNI Obligatorio</string>
+    <string name="validaCorreo">Correo Obligatorio</string>
+
+    <!-- Mensajes Usuario-->
+    <string name="msg_login_incorrecto">Usuario o Clave invalida</string>
+    <string name="title_activity_usuario">Registro de Usuarios</string>
+
+    <string name="msg_user_guardado">Registro Guardado..!</string>
+    <string name="msg_user_modificado">Registro Modificado..!</string>
+    <string name="msg_user_eliminado">Registro Eliminado..!</string>
+    <string name="msg_user_error">Error al guardar!</string>
+
+    <!-- Mensajes Alumno-->
+
+
+    <string name="title_activity_alumno">Registro de Alumno</string>
+    <string name="msg_alum_guardado">Registro Guardado..!</string>
+    <string name="msg_alum_modificado">Registro Modificado..!</string>
+    <string name="msg_alum_eliminado">Registro Eliminado..!</string>
+    <string name="msg_alum_error">Error al guardar!</string>
+
+    <!-- Usuarios -->
+    <string name="Usuario_txtNombre">Nombre:</string>
+    <string name="Usuario_txtUser">Usuario:</string>
+    <string name="Usuario_txtCkave">Clave:</string>
+    <string name="Login_btnRegistrar">Registrar</string>
+    <string name="title_activity_list_usuarios">Lista de Usuarios</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Lista_usuarios">Lista de Usuarios</string>
+    <string name="title_activity_list_usuario">ListUsuarioActivity</string>
+
+
+    <!-- Alumnos -->
+    <string name="Alumno_txtNombre">Nombre:</string>
+    <string name="Alumno_txtTelefono">Telefono:</string>
+    <string name="Alumno_txtDNI">DNI:</string>
+    <string name="Alumno_txtCorreo">Correo:</string>
+
+    <string name="Login_btnRegistrarAlumnos">Registrar</string>
+    <string name="title_activity_list_alumnos">Lista de Alumnos</string>
+    <string name="Lista_alumnos">Lista de Alumnos</string>
+    <string name="title_activity_list_alumno">ListAlumnoActivity</string>
+    <string name="title_activity_alumno2">AlumnoActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
